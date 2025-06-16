@@ -1,5 +1,4 @@
 # NourishBot
-Website for NourishBot – a chatbot project connecting people with food resources (Built with Wix)
 
 A chatbot-based web project built to connect people with excess food to those in need. Developed using **Wix Website Builder** as part of the IBM SkillsBuild Internship.
 
