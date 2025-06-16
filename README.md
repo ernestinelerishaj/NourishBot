@@ -18,3 +18,5 @@ A chatbot-based web project built to connect people with excess food to those in
 ## 📚 Context
 This was developed during the IBM internship under the SkillsBuild program. The focus was to build a solution addressing food insecurity using AI-powered chatbots.
 
+## 📌 Skills Highlighted
+`AI/ML` `Chatbot Design` `Wix` `IBM Watson Assistant` `Design Thinking` `UI/UX` `No-Code Tools` `Social Impact Projects`
